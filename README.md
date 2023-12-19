@@ -14,13 +14,13 @@ Before running the application, make sure you have Node.js installed on your mac
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vicky3751/anc.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
+   cd anc
    ```
 
 3. Install dependencies:
